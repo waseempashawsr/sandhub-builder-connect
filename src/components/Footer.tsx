@@ -44,10 +44,8 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-bold text-primary-foreground mb-4">Service Areas</h4>
             <ul className="space-y-2 text-sm text-primary-foreground/55">
-              <li>Chennai & Suburbs</li>
-              <li>Kanchipuram</li>
-              <li>Tiruvallur</li>
-              <li>Chengalpattu</li>
+              <li>All Over Bengaluru</li>
+             
             </ul>
           </div>
 
@@ -57,7 +55,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-center gap-3 text-primary-foreground/55">
                 <Phone className="w-4 h-4 text-accent flex-shrink-0" />
-                <a href="tel:+919483078687" className="hover:text-accent transition-colors">+91 94830 78687</a>
+                <a href="tel:+919483078687 , +919743043023" className="hover:text-accent transition-colors">+91 94830 78687</a>
               </li>
               <li className="flex items-center gap-3 text-primary-foreground/55">
                 <Mail className="w-4 h-4 text-accent flex-shrink-0" />

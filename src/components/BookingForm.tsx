@@ -60,7 +60,7 @@ const BookingForm = () => {
   const handleSubmit = () => {
     // Build WhatsApp message
     const msg = `New Booking from SandHub.in%0A%0AMaterial: ${form.material}%0AVehicle: ${form.vehicle}%0AQuantity: ${form.quantity} Tons%0AName: ${form.name}%0APhone: ${form.phone}%0AAddress: ${form.address}%0ADate: ${form.date}%0AInstructions: ${form.instructions || "None"}`;
-    window.open(`https://wa.me/919999999999?text=${msg}`, "_blank");
+    window.open(`https://wa.me/919483078687?text=${msg}`, "_blank");
     setSubmitted(true);
     toast({
       title: "Booking Submitted!",

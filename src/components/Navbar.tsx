@@ -70,7 +70,7 @@ const Navbar = () => {
                 {label}
               </button>
             ))}
-            <a href="tel:+919483078687">
+            <a href="tel:+919483078687 , +919743043023">
               <Button className="w-full bg-accent text-accent-foreground hover:bg-construction-yellow-dark font-semibold gap-2 mt-2">
                 <Phone className="w-4 h-4" />
                 Call Now
